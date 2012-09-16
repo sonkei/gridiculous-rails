@@ -1,6 +1,6 @@
 # Gridiculous::Rails
 
-[gridiculous](http://gridiculo.us) responsive grid system rails gem.
+[gridiculous](http://gridiculo.us) responsive grid system by [Chris Bavota](https://github.com/cbavota) rails gem.
 
 ## Installation
 
