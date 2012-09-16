@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Gridiculous::Rails::VERSION
   gem.authors       = ["chris bailey"]
   gem.email         = ["chris@subcu.lt"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Rails gem for http://gridiculo.us responsive grid}
+  gem.summary       = %q{Fully responsive grid boilerplate}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
